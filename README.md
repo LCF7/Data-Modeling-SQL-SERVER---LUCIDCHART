@@ -46,10 +46,10 @@ The data model consists of the following tables:
 - **dim_date**
 - **fact_listing**
 
-# PowerBI:
+### PowerBI:
 ![Data Model](https://drive.google.com/uc?export=view&id=1dJJOzQ2Y_kdKLKwR2p8q0EIqlpDIqfAC) 
 
-# Tableau:
+### Tableau:
 ![Data Model](https://drive.google.com/uc?export=view&id=1DylnkiqKkdtL7AHWW-lKxV3y14zWJvf8)
 
 Each table was carefully designed to ensure proper normalization and to support efficient querying and reporting.
