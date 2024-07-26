@@ -13,6 +13,8 @@ This project involved data modeling using Lucidchart and SQL SERVER to model and
 
 The goal was to prepare the data for use with BI tools such as Power BI and Tableau.
 
+![Data Model](https://drive.google.com/uc?export=view&id=15sIoBPrjX0DQS7-myD1dHWPbcHXvUwXW) 
+
 ## Project Steps
 
 1. **Database and Schema Creation**
@@ -29,6 +31,9 @@ The goal was to prepare the data for use with BI tools such as Power BI and Tabl
 4. **Data Population and Testing**
    - Inserted and tested data in each of the dimension and fact tables to ensure accuracy and completeness.
 
+![Data Model](https://drive.google.com/uc?export=view&id=1fw2APwGriwySzghAHcuanhchFocFV9Ue) 
+![Data Model](https://drive.google.com/uc?export=view&id=1h0KYgWQtSDyLgh29dBvDg_e8LVbwlcco)
+
 ## Data Model
 
 The data model consists of the following tables:
@@ -41,15 +46,14 @@ The data model consists of the following tables:
 - **dim_date**
 - **fact_listing**
 
+![Data Model](https://drive.google.com/uc?export=view&id=1dJJOzQ2Y_kdKLKwR2p8q0EIqlpDIqfAC) 
+![Data Model](https://drive.google.com/uc?export=view&id=1DylnkiqKkdtL7AHWW-lKxV3y14zWJvf8)
+
 Each table was carefully designed to ensure proper normalization and to support efficient querying and reporting.
 
 ## Objective
 
 The objective of this project was to have the data ready for connection to BI tools like Power BI and Tableau, enabling detailed and dynamic real estate analysis.
-
-## Visualization
-
-![Data Model](path/to/Data%20Modeling%20lucidchart.jpg)
 
 ## Usage
 
